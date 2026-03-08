@@ -47,6 +47,7 @@
 
     .hero-socials-v3 {
         gap: 15px;
+        justify-content: center;
     }
 
     .social-icon-v3 {
